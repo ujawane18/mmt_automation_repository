@@ -13,6 +13,7 @@ public class test1 {
 		System.out.println("Before Class");
 	}
 	
+	
 	@BeforeMethod
 	public void beforeMethod() {
 		System.out.println("Before Method");
